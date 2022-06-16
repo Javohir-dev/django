@@ -1,0 +1,2 @@
+# django
+Mening Django darslarim 
